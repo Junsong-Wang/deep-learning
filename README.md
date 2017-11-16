@@ -39,3 +39,23 @@ Region-based Fully Convolutional Networks**." arXiv preprint arXiv:1605.06409 (2
 
 **[16]** He, Gkioxari, et al. "**Mask R-CNN**" arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/abs/1703.06870) :star::star::star::star:
 
+
+# 2 Deep Learning Courses
+
+Lecture 1. Introduction to machine learning, basic concepts.
+
+Lecture 2. Introduction to machine learning, linear classifier.
+
+Pratice 1: Design a linear classifier using Python.
+
+Lecture 3. Introduction to deep learning, basic concepts and BP algorithm.
+
+Lecture 4. Introduction to deep learning, covolution neural network.
+
+Pratice 2: Train a speed limit sign classifier based on covolution neural network using Caffe.
+
+Lecture 5. Recent object detection algorithms based on deep learning.
+
+Pratice 3: Design  a deep neural network for speed limit sign detection.
+
+
